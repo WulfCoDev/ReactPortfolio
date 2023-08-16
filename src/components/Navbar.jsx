@@ -5,6 +5,10 @@ import '../App.css';
 const Navbar = () => {
   return (
     <nav className='navbar'>
+      <Link to={'/'} className="logo">
+        <img src="../src/assets/logo.png" alt="Logo" />
+        <span>WulfCoDev</span>
+      </Link>
       <ul className='nav-list'>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/about">About Me</Link></li>
