@@ -193,9 +193,19 @@
   color: var(--main-accent);
 }
 
+.topic-section > h3 {
+  font-size: 2rem;
+}
+
 .topic-section {
   background-color: var(--main-accent);
   color: var(--main-white);
   padding: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
+  max-width: 75%;
+}
+
+.topic-section > p {
+  margin: 10px;
+  font-size: 32px;
 }

@@ -10,11 +10,12 @@ const AboutMe = () => {
       
         <div className="topic-section">
           <h3>About Me:</h3>
-          <p>I am a Web Developer with a background in IT/Tech repair and have over a decade of graphic design experience. I am seeking remote opportunities as a Web Developer or Software Engineer.</p>
-          <p>I currently work for Amazon while I complete Fullstack Academy's Web Development program and am also being AWS Cloud Practitioner certified.</p>
-          <p>What drew me to web development is the ability to express my creativity whilst
-            leveraging my design skills from my graphic design experience. <br></br> On the other hand, web development succumbs my need for problem-solving and constant self-evolution; growth. <br></br>In my free time, you can find me sim-racing or just hanging out with friends on Discord. I also enjoy making 3D prints and other things such as custom stickers, clothes, etc.</p>
-        </div>w
+          <p>I am a Web Developer with a background in IT/Tech repair and have over a decade of graphic design experience. I am seeking remote opportunities as a Web Developer or Software Engineer.
+
+I currently work for Amazon while I complete Fullstack Academy's Web Development program and am also being AWS Cloud Practitioner certified.
+
+What drew me to web development is the ability to express my creativity whilst leveraging my design skills from my graphic design experience. On the other hand, web development succumbs my need for problem-solving and constant self-evolution; growth. In my free time, you can find me sim-racing or just hanging out with friends on Discord. I also enjoy making 3D prints and other things such as custom stickers, clothes, etc.</p>
+        </div>
         
         <div className="topic-section">
           <h3>Skills:</h3>
