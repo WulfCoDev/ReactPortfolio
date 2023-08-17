@@ -13,7 +13,7 @@ const Home = () => {
 
         <section className="intro">
             <p>turning visions</p>
-            <p>into <span>reality</span></p>
+            <p>into <span className='heroHeaderGradient'>reality</span></p>
             <p>one line of code at a time</p>
         </section>
         </div>
